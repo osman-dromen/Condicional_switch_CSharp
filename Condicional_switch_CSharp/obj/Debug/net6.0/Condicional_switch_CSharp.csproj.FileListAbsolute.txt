@@ -1,0 +1,15 @@
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\bin\Debug\net6.0\Condicional_switch_CSharp.exe
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\bin\Debug\net6.0\Condicional_switch_CSharp.deps.json
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\bin\Debug\net6.0\Condicional_switch_CSharp.runtimeconfig.json
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\bin\Debug\net6.0\Condicional_switch_CSharp.dll
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\bin\Debug\net6.0\Condicional_switch_CSharp.pdb
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.csproj.AssemblyReference.cache
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.AssemblyInfoInputs.cache
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.AssemblyInfo.cs
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.csproj.CoreCompileInputs.cache
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.dll
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\refint\Condicional_switch_CSharp.dll
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.pdb
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\Condicional_switch_CSharp.genruntimeconfig.cache
+C:\0. RESPALDOS\Curso C#\Condicional_switch_CSharp\Condicional_switch_CSharp\obj\Debug\net6.0\ref\Condicional_switch_CSharp.dll
